@@ -1,7 +1,7 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "APURBO ARNOB TOP UP";
+var website_name = "YASIN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
