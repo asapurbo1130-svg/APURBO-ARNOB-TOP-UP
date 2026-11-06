@@ -11,7 +11,7 @@ var telegram_channel_link = "telegram channel link";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var  whatsapp Group Link= "https://chat.whatsapp.com/GWJeTbQmRxSAykLCJaEBB0?s=cl&p=a&iam=2";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
